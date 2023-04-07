@@ -1,0 +1,516 @@
+[{
+  "city_name": "Tala",
+  "lat": 13.28332996,
+  "lon": 122.583328,
+  "locality": "Caloocan"
+},
+{
+  "city_name": "Punay",
+  "lat": 5.96139002,
+  "lon": 121.198059,
+  "locality": "Caloocan"
+},
+{
+  "city_name": "Pajo",
+  "lat": 11.23060036,
+  "lon": 124.013802,
+  "locality": "Caloocan"
+},
+{
+  "city_name": "Mulauin",
+  "lat": 13.86666965,
+  "lon": 121.01667,
+  "locality": "Caloocan"
+},
+{
+  "city_name": "Bagombong",
+  "lat": 14.34130001,
+  "lon": 121.377502,
+  "locality": "Caloocan"
+},
+{
+  "city_name": "Bignay Uno",
+  "lat": 13.86277962,
+  "lon": 121.489441,
+  "locality": "Lungsod Quezon"
+},
+{
+  "city_name": "Palali",
+  "lat": 14.30622005,
+  "lon": 122.48571,
+  "locality": "Lungsod Quezon"
+},
+{
+  "city_name": "Daguma",
+  "lat": 6.58666992,
+  "lon": 124.547218,
+  "locality": "Lungsod Quezon"
+},
+{
+  "city_name": "Poblacion, San Felipe",
+  "lat": 15.06221962,
+  "lon": 120.07,
+  "locality": "Makati"
+},
+{
+  "city_name": "Lumbang",
+  "lat": 14.29730034,
+  "lon": 121.459801,
+  "locality": "Makati"
+},
+{
+  "city_name": "Osias",
+  "lat": 7.5999999,
+  "lon": 124.816673,
+  "locality": "Makati"
+},
+{
+  "city_name": "Naili",
+  "lat": 11.76659966,
+  "lon": 122.176498,
+  "locality": "Makati"
+},
+{
+  "city_name": "Limbo",
+  "lat": 7.25166988,
+  "lon": 124.243889,
+  "locality": "Makati"
+},
+{
+  "city_name": "Evangelista",
+  "lat": 13.33349991,
+  "lon": 121.097198,
+  "locality": "Makati"
+},
+{
+  "city_name": "Estrella",
+  "lat": 15.75,
+  "lon": 121.033333,
+  "locality": "Makati"
+},
+{
+  "city_name": "Don Pedro",
+  "lat": 15.88939953,
+  "lon": 120.428101,
+  "locality": "Makati"
+},
+{
+  "city_name": "Davila",
+  "lat": 18.47260094,
+  "lon": 120.576302,
+  "locality": "Makati"
+},
+{
+  "city_name": "Bangkal",
+  "lat": 6.06666994,
+  "lon": 121.066673,
+  "locality": "Makati"
+},
+{
+  "city_name": "Balete No 2",
+  "lat": 14.16689968,
+  "lon": 120.976852,
+  "locality": "Makati"
+},
+{
+  "city_name": "Aranda",
+  "lat": 10.23649979,
+  "lon": 122.946701,
+  "locality": "Makati"
+},
+{
+  "city_name": "Concepcion Ibaba",
+  "lat": 13.92667007,
+  "lon": 121.493332,
+  "locality": "Malabon"
+},
+{
+  "city_name": "Niugan",
+  "lat": 14.94999981,
+  "lon": 120.966667,
+  "locality": "Malabon"
+},
+{
+  "city_name": "Malabon",
+  "lat": 15.63609982,
+  "lon": 119.937897,
+  "locality": "Malabon"
+},
+{
+  "city_name": "Longos",
+  "lat": 16.10659981,
+  "lon": 120.395401,
+  "locality": "Malabon"
+},
+{
+  "city_name": "Mandaluyong City",
+  "lat": 14.58320045,
+  "lon": 121.040901,
+  "locality": "Mandaluyong"
+},
+{
+  "city_name": "Pines",
+  "lat": 8.45221996,
+  "lon": 123.807503,
+  "locality": "Mandaluyong"
+},
+{
+  "city_name": "Payapa",
+  "lat": 13.9980402,
+  "lon": 120.892059,
+  "locality": "Mandaluyong"
+},
+{
+  "city_name": "Pag-asa",
+  "lat": 7.57556009,
+  "lon": 125.683891,
+  "locality": "Mandaluyong"
+},
+{
+  "city_name": "Malamig",
+  "lat": 12.94999981,
+  "lon": 121.366669,
+  "locality": "Mandaluyong"
+},
+{
+  "city_name": "Lunas",
+  "lat": 10.64019966,
+  "lon": 123.752502,
+  "locality": "Mandaluyong"
+},
+{
+  "city_name": "Feliciano",
+  "lat": 11.57870007,
+  "lon": 122.358299,
+  "locality": "Mandaluyong"
+},
+{
+  "city_name": "Busilak",
+  "lat": 16.47750092,
+  "lon": 121.1241,
+  "locality": "Mandaluyong"
+},
+{
+  "city_name": "Quiapo",
+  "lat": 14.60000038,
+  "lon": 120.983299,
+  "locality": "Manila"
+},
+{
+  "city_name": "Port Area",
+  "lat": 14.58329964,
+  "lon": 120.966698,
+  "locality": "Manila"
+},
+{
+  "city_name": "Mariano",
+  "lat": 8.83333015,
+  "lon": 125.116669,
+  "locality": "Manila"
+},
+{
+  "city_name": "Platagata",
+  "lat": 11.30300045,
+  "lon": 123.1567,
+  "locality": "Manila"
+},
+{
+  "city_name": "Santo Cristo",
+  "lat": 15.33835983,
+  "lon": 120.59333,
+  "locality": "Manila"
+},
+{
+  "city_name": "San Pedro One",
+  "lat": 14.05340958,
+  "lon": 121.145363,
+  "locality": "Manila"
+},
+{
+  "city_name": "Manika",
+  "lat": 11.38801003,
+  "lon": 122.279312,
+  "locality": "Manila"
+},
+{
+  "city_name": "Malaya",
+  "lat": 14.39710045,
+  "lon": 121.338501,
+  "locality": "Manila"
+},
+{
+  "city_name": "Espana",
+  "lat": 12.38414001,
+  "lon": 122.499008,
+  "locality": "Manila"
+},
+{
+  "city_name": "Ermita",
+  "lat": 10.89999962,
+  "lon": 122.716667,
+  "locality": "Manila"
+},
+{
+  "city_name": "Bukid",
+  "lat": 5.57167006,
+  "lon": 125.405563,
+  "locality": "Manila"
+},
+{
+  "city_name": "Putol",
+  "lat": 13.9921999,
+  "lon": 120.727501,
+  "locality": "Marikina"
+},
+{
+  "city_name": "Nangka",
+  "lat": 10.85564041,
+  "lon": 123.035896,
+  "locality": "Marikina"
+},
+{
+  "city_name": "Kulempang",
+  "lat": 7.51944017,
+  "lon": 124.389717,
+  "locality": "Marikina"
+},
+{
+  "city_name": "Sagrada Familia",
+  "lat": 13.26900005,
+  "lon": 123.397697,
+  "locality": "Maynila"
+},
+{
+  "city_name": "Lacson",
+  "lat": 7.21193981,
+  "lon": 125.442223,
+  "locality": "Maynila"
+},
+{
+  "city_name": "Ilaya",
+  "lat": 5.81527996,
+  "lon": 125.226669,
+  "locality": "Muntinlupa"
+},
+{
+  "city_name": "Maricaban",
+  "lat": 11.15159988,
+  "lon": 123.767899,
+  "locality": "Muntinlupa"
+},
+{
+  "city_name": "Mangarine",
+  "lat": 12.35114956,
+  "lon": 121.098007,
+  "locality": "Muntinlupa"
+},
+{
+  "city_name": "Bayanan",
+  "lat": 13.35919952,
+  "lon": 121.169899,
+  "locality": "Muntinlupa"
+},
+{
+  "city_name": "Navotas",
+  "lat": 14.41670036,
+  "lon": 121.226799,
+  "locality": "Navotas"
+},
+{
+  "city_name": "Irasan",
+  "lat": 8.52600002,
+  "lon": 123.206001,
+  "locality": "Parañaque"
+},
+{
+  "city_name": "Rizal",
+  "lat": 15.71179962,
+  "lon": 121.106102,
+  "locality": "Pasay"
+},
+{
+  "city_name": "Villamor",
+  "lat": 6.70472002,
+  "lon": 124.518608,
+  "locality": "Pasay"
+},
+{
+  "city_name": "Manggahan",
+  "lat": 14.29409981,
+  "lon": 120.906868,
+  "locality": "Pasig"
+},
+{
+  "city_name": "Kamias",
+  "lat": 15.1736002,
+  "lon": 120.965103,
+  "locality": "Pasig"
+},
+{
+  "city_name": "Magtangol",
+  "lat": 15.76667023,
+  "lon": 120.933327,
+  "locality": "Pateros"
+},
+{
+  "city_name": "Quezon",
+  "lat": 15.55119991,
+  "lon": 120.814697,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Del Monte",
+  "lat": 14.64179993,
+  "lon": 121.0177,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Salvacion I",
+  "lat": 15.83959961,
+  "lon": 120.915901,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Salvacion",
+  "lat": 13.60169983,
+  "lon": 123.473801,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Susana",
+  "lat": 15.56890011,
+  "lon": 121.152199,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Pasian",
+  "lat": 7.92806005,
+  "lon": 126.067223,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Osmena",
+  "lat": 12.73149967,
+  "lon": 123.331802,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Nenita",
+  "lat": 12.49166965,
+  "lon": 124.804443,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Nena",
+  "lat": 11.76583004,
+  "lon": 125.417778,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Mayo",
+  "lat": 7.00209999,
+  "lon": 126.331978,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Mangga",
+  "lat": 15.2510004,
+  "lon": 120.908897,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Maayon",
+  "lat": 11.38669968,
+  "lon": 122.785896,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Ligaya",
+  "lat": 15.50909996,
+  "lon": 121.287201,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Gulod",
+  "lat": 13.87514019,
+  "lon": 120.633591,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Diliman",
+  "lat": 15.02499962,
+  "lon": 120.950203,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Damayan",
+  "lat": 11.49359989,
+  "lon": 122.553101,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Camp Flora",
+  "lat": 13.35083008,
+  "lon": 122.664436,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Basa",
+  "lat": 8.07221985,
+  "lon": 126.064171,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Banawa",
+  "lat": 7.15361023,
+  "lon": 124.866669,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Agos",
+  "lat": 13.3434,
+  "lon": 123.3983,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Binuang",
+  "lat": 5.95694017,
+  "lon": 121.059998,
+  "locality": "Quezon City"
+},
+{
+  "city_name": "Carriedo",
+  "lat": 16.03100014,
+  "lon": 120.754898,
+  "locality": "San Juan"
+},
+{
+  "city_name": "Hagunoy",
+  "lat": 14.83209991,
+  "lon": 120.733597,
+  "locality": "Taguig"
+},
+{
+  "city_name": "Taguing",
+  "lat": 17.9446907,
+  "lon": 121.75885,
+  "locality": "Taguig"
+},
+{
+  "city_name": "Malinta",
+  "lat": 12.30222034,
+  "lon": 123.557503,
+  "locality": "Valenzuela"
+},
+{
+  "city_name": "Isla",
+  "lat": 15.89389038,
+  "lon": 120.303612,
+  "locality": "Valenzuela"
+},
+{
+  "city_name": "Capitan Ramon",
+  "lat": 10.77278042,
+  "lon": 123.129173,
+  "locality": "Valenzuela"
+}]

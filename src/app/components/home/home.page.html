@@ -1,0 +1,74 @@
+<ion-header collapse="fade">
+  <ion-toolbar>
+    <ion-title slot="start">Weather Today</ion-title>
+    <ion-select slot="end" interface="popover" placeholder="Select Location" (ionChange)="onSelectChange($event)"
+      #selectLocation>
+      <ion-select-option *ngFor="let loc of cities" value="{{loc.city_name}}">{{loc.city_name}} -
+        {{loc.locality}}</ion-select-option>
+    </ion-select>
+  </ion-toolbar>
+  <ion-searchbar showClearButton="focus" placeholder="Search location" inputmode="search"
+    (keydown.Enter)="onSearchInput($event)" #searchLocation></ion-searchbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <div id="currentData" *ngIf="currWeatherData">
+
+    <div id="location">Location: {{currWeatherData.location}}</div>
+    <div id="weather"> {{ currWeatherData.weather }} </div>
+
+    <div id="tabDetails">
+      <div class="detail1">
+        <ion-img class="icon" src="../../assets/icon/wind.png"></ion-img>
+        <div>{{ currWeatherData.windSpeed}}</div>
+      </div>
+
+      <div class="detail1">
+        <ion-img class="icon" src="../../assets/icon/sun.png"></ion-img>
+        <div>
+          <div> &uarr; {{currWeatherData.sunrise}} </div>
+          <div> &darr; {{currWeatherData.sunset}} </div>
+        </div>
+      </div>
+
+      <div class="detail1">
+        <ion-img src="../../assets/icon/water.png"></ion-img>
+        <div>{{ currWeatherData.humidity}} %</div>
+      </div>
+    </div>
+
+    <div id="tabTemp">
+      <div class="currTemp">{{ currWeatherData.temp }}°</div>
+      <div id="minMaxTemp">H: {{currWeatherData.temp_max}}° | L: {{currWeatherData.temp_min}}°</div>
+    </div>
+  </div>
+
+  <ion-slides *ngIf="forecasts && currWeatherData">
+    <ion-slide *ngFor="let f of forecasts">
+      <div class="details">
+        <div class="weekday">{{f.weekday}}</div>
+        <div class="date">{{f.monthLong}} {{f.day}}</div>
+        <div class="time">{{f.time}}</div>
+      </div>
+      <ion-img src="../../../assets/icon/weather/{{f.icon}}@4x.png"></ion-img>
+      <div class="weather">{{f.weather}}</div>
+      <div class="temp">{{f.temp}}°</div>
+    </ion-slide>
+  </ion-slides>
+
+  <div id="forecastData">
+    <div class="fcast" *ngFor="let f of fcastDaily">
+      <div>{{f.weekday}}</div>
+      <div class="temp-container">
+        <div class="temp">
+          <div>H:</div>
+          <div>{{f.temp_max | number : '1.0-0'}}°</div>
+        </div>
+        <div class="temp">
+          <div>L:</div>
+          <div>{{f.temp_min | number : '1.0-0'}}°</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</ion-content>
