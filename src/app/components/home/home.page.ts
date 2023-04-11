@@ -2,7 +2,7 @@ import { Component, ViewChild } from '@angular/core';
 import { WeatherAPIService } from '../../services/weather-api.service';
 import { Icity, IforecastDay, IweatherData } from '../../myInterfaces';
 import _cities from '../../../assets/cities.json';
-import { IonSelect, IonSearchbar, AlertController } from '@ionic/angular';
+import { IonSelect, IonSearchbar, AlertController, IonSlides } from '@ionic/angular';
 
 @Component({
   selector: 'app-home',
@@ -154,5 +154,9 @@ export class HomePage {
         }
       );
     }
+  }
+
+  onSliderEnd(_e: any) {
+    console.log('Test');
   }
 }

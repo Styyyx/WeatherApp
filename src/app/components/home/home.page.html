@@ -7,10 +7,10 @@
         {{loc.locality}}</ion-select-option>
     </ion-select>
   </ion-toolbar>
-  <ion-searchbar showClearButton="focus" placeholder="Search location" inputmode="search"
-    (keydown.Enter)="onSearchInput($event)" #searchLocation></ion-searchbar>
 </ion-header>
 <ion-content [fullscreen]="true">
+  <ion-searchbar showClearButton="focus" placeholder="Search location" inputmode="search"
+    (search)="onSearchInput($event)" #searchLocation></ion-searchbar>
   <div id="currentData" *ngIf="currWeatherData">
 
     <div id="location">Location: {{currWeatherData.location}}</div>
@@ -42,7 +42,7 @@
     </div>
   </div>
 
-  <ion-slides *ngIf="forecasts && currWeatherData">
+  <ion-slides *ngIf="forecasts && currWeatherData" #slider (ionSlideReachEnd)="onSliderEnd($event)">
     <ion-slide *ngFor="let f of forecasts">
       <div class="details">
         <div class="weekday">{{f.weekday}}</div>
